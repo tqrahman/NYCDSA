@@ -1,2 +1,2 @@
-# Velocity of CitiBikes
-For my first project, I analyzed the CitiBike data from Dec 2015 - Feb 2016. My analysis can be found on the NYCDSA blog.
+# Higgs Boson - Kaggle Competition
+For my fourth project, I tackled the Higgs Boson Kaggle Competition with three other members. Our analysis can be found on the [NYCDSA blog](http://blog.nycdatascience.com/student-works/higgs-boson-machine-learning-challenge/).
